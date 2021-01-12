@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BCP-Desafio</string>
+    <string name="prompt_amount_sent">Tú envias:</string>
+    <string name="promt_retrieved_amount">Tú recibes:</string>
+    <string name="text_calculator_exchange_buy">Compra: </string>
+    <string name="text_calculator_exchange_sale">venta: </string>
+    <string name="text_accept_transaction">Empieza tu operación</string>
+</resources>
